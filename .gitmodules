@@ -1,0 +1,9 @@
+[submodule "data-stag"]
+	path = data-stag
+	url = git://github.com/cmungall/data-stag.git
+[submodule "DBIx-DBStag"]
+	path = DBIx-DBStag
+	url = git://github.com/cmungall/DBIx-DBStag.git
+[submodule "biostag"]
+	path = biostag
+	url = git://github.com/cmungall/biostag.git
